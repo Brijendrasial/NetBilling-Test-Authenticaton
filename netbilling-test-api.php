@@ -1,5 +1,5 @@
 <?php
-		$post_url = "https://secure.netbilling.com:1402/gw/sas/direct3.2";
+		$post_url = "http://secure.netbilling.com:1401/gw/sas/direct3.2";
 		
 		$post_values = array(
 		// the API Login ID and Transaction Key must be replaced with valid values
